@@ -1,4 +1,4 @@
-# Direct Publisher Feed Specifications
+# Direct Publisher Feed
 
 ### Overview
 Your content is the most important part of your application. With Direct Publisher, you can now create a channel using an existing MRSS feed or the Direct Publisher feed (JSON). The following specifications outline the necessary information required for feed-based channels.
